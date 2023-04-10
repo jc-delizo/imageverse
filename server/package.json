@@ -5,7 +5,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index",
+    "start": "nodemon index.js",
     "build": "echo 'This is a build script'"
   },
   "keywords": [],
