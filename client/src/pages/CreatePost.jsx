@@ -129,6 +129,12 @@ const CreatePost = () => {
             )}
           </div>
         </div>
+        <div>
+          <p className="mt-2 text-[#666e75] text-[14px]">
+            I am sorry, my credits in DALLE ran out. You can check the previous generated images in the <a href="/">homepage</a>.
+          </p>
+
+        </div>
         <div className="mt-5 flex gap-5">
           <button
             type="button"
